@@ -1,0 +1,38 @@
+body {
+  background: #f1f5f9;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 220px;
+  height: 100vh;
+  background: #0f172a;
+  color: white;
+  padding: 20px;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  margin: 10px 0;
+  text-decoration: none;
+}
+
+/* Navbar */
+.navbar-custom {
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Login Page */
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Cards */
+.card {
+  border-radius: 12px;
+}
